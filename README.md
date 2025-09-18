@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0066-plus-one) |
 ## Two Pointers
@@ -64,4 +65,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
