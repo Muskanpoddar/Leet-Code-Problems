@@ -93,4 +93,12 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
