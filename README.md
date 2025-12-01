@@ -75,6 +75,7 @@
 | [0118-pascals-triangle](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,8 +102,13 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
