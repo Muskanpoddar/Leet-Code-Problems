@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0035-search-insert-position) |
+| [0057-insert-interval](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
