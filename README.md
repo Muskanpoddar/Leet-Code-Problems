@@ -38,6 +38,7 @@
 | [0009-palindrome-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0066-plus-one) |
+| [2037-count-square-sum-triples](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2037-count-square-sum-triples) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0043-multiply-strings) |
+## Enumeration
+|  |
+| ------- |
+| [2037-count-square-sum-triples](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2037-count-square-sum-triples) |
 <!---LeetCode Topics End-->
