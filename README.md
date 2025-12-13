@@ -49,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
