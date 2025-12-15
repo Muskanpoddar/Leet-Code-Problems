@@ -64,6 +64,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -72,6 +73,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Sorting
 |  |
@@ -145,4 +147,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
