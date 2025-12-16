@@ -66,6 +66,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0112-path-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -151,8 +153,10 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
