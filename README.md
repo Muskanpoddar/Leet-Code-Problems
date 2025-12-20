@@ -54,6 +54,7 @@
 | [0031-next-permutation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -105,6 +108,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -171,4 +175,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0208-implement-trie-prefix-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
