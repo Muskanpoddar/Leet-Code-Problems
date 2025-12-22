@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | [0009-palindrome-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2037-count-square-sum-triples](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2037-count-square-sum-triples) |
 ## Two Pointers
 |  |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Backtracking
 |  |
 | ------- |
