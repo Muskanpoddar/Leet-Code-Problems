@@ -196,4 +196,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0074-search-a-2d-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
