@@ -26,6 +26,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0043-multiply-strings) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0074-search-a-2d-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Database
 |  |
 | ------- |
