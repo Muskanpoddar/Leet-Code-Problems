@@ -26,6 +26,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
@@ -151,6 +152,7 @@
 | [0131-palindrome-partitioning](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0344-reverse-string) |
+| [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
 ## Stack
 |  |
 | ------- |
