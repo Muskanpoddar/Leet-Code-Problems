@@ -30,6 +30,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0137-single-number-ii) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Linked List
 |  |
 | ------- |
