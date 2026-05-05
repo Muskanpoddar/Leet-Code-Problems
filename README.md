@@ -26,6 +26,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
