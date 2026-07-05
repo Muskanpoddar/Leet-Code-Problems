@@ -26,6 +26,7 @@
 | [0136-single-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -40,6 +41,7 @@
 | [0001-two-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -84,6 +86,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | [0088-merge-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -226,4 +230,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0175-combine-two-tables) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
