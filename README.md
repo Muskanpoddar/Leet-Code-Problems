@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0057-insert-interval) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sliding Window
