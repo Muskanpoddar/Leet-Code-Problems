@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0064-minimum-path-sum) |
@@ -90,6 +91,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
@@ -126,6 +128,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
