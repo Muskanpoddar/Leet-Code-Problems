@@ -35,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -51,6 +52,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Math
@@ -82,6 +84,7 @@
 | [0189-rotate-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -90,6 +93,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,6 +128,7 @@
 | [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
