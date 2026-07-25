@@ -80,6 +80,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0283-move-zeroes) |
@@ -189,6 +190,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0344-reverse-string) |
