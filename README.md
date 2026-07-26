@@ -33,6 +33,7 @@
 | [0152-maximum-product-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0283-move-zeroes) |
@@ -95,6 +96,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
@@ -260,4 +263,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
