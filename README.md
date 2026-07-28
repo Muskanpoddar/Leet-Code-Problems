@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0131-palindrome-partitioning) |
 ## Simulation
