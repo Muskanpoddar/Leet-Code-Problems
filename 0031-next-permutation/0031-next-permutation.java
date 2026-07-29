@@ -1,32 +1,32 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int i = nums.length -2;
-        while(i >= 0 && nums[i] >= nums[i+ 1]) i--;
-        if(i >= 0) {
-            int  j = nums.length -1;
-            while (nums[j] <= nums[i]) j--;
-            swap(nums, i , j);
+        int pivot = -1;
+        for(int i = nums.length - 2; i >= 0 ; i--){
+            if(nums[i] < nums[i + 1]){
+                pivot = i;
+                break;
+            }
         }
-        reverse(nums, i+ 1);
-    }
-
-    private void reverse(int[] nums, int start){
-        int end = nums.length - 1;
-        while (start< end ){
-            swap(nums,start , end);
-            start++;
-            end--;
+        if(pivot != -1){
+            for(int i = nums.length - 1 ; i > pivot ; i--){
+                if(nums[i] > nums[pivot]){
+                    swap(nums , i , pivot);
+                    break;
+                }
+            }
         }
+        reverse(nums , pivot  + 1, nums.length -1);
     }
-    private void swap (int[] nums, int i , int j ){
+    private void swap(int[] nums , int i, int j){
         int temp = nums[i];
         nums[i] = nums[j];
         nums[j] = temp;
     }
-
-    public static void main(String[] args){
-        int[] nums ={1,2,3};
-        new Solution().nextPermutation(nums); 
-        System.out.println(Arrays.toString(nums));
+    private void reverse(int[] nums , int left , int right ){
+        while(left < right){
+            swap(nums , left , right);
+            left++;
+            right--;
+        }
     }
 }
