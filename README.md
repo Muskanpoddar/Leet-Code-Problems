@@ -17,6 +17,7 @@
 | [0045-jump-game-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0064-minimum-path-sum) |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 ## Enumeration
@@ -257,6 +259,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0074-search-a-2d-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
