@@ -94,6 +94,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0344-reverse-string) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2037-count-square-sum-triples) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
