@@ -48,6 +48,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,4 +281,8 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
