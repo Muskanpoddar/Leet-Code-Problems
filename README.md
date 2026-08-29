@@ -19,6 +19,7 @@
 | [0053-maximum-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0066-plus-one) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
@@ -285,4 +287,8 @@
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
