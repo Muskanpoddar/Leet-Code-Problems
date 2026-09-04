@@ -16,6 +16,7 @@
 | [0039-combination-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
@@ -56,6 +57,7 @@
 | [0001-two-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0147-insertion-sort-list) |
@@ -205,6 +208,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0208-implement-trie-prefix-tree) |
