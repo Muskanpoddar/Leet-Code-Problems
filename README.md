@@ -116,6 +116,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Linked List
