@@ -73,6 +73,7 @@
 | [0009-palindrome-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [2037-count-square-sum-triples](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2037-count-square-sum-triples) |
@@ -155,6 +156,7 @@
 | [0053-maximum-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -295,4 +297,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0056-merge-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
