@@ -43,6 +43,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
@@ -165,6 +166,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
 ## Design
 |  |
 | ------- |
@@ -305,4 +308,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
