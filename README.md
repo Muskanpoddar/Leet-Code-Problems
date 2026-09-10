@@ -170,6 +170,7 @@
 | [0152-maximum-product-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
+| [1250-longest-common-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1250-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0131-palindrome-partitioning](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0344-reverse-string) |
+| [1250-longest-common-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1250-longest-common-subsequence) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
@@ -323,4 +325,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
