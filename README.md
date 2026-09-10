@@ -43,6 +43,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -109,6 +110,7 @@
 | [0035-search-insert-position](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -166,6 +168,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
 ## Bit Manipulation
 |  |
@@ -316,4 +319,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
