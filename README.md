@@ -167,6 +167,7 @@
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -228,6 +229,7 @@
 | [0038-count-and-say](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0139-word-break) |
