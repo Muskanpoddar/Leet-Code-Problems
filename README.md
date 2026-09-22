@@ -79,6 +79,7 @@
 | [0007-reverse-integer](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -165,6 +166,7 @@
 | [0045-jump-game-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0091-decode-ways) |
@@ -345,4 +347,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
