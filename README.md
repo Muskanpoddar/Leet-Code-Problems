@@ -52,6 +52,7 @@
 | [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
@@ -123,6 +124,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -379,4 +381,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
