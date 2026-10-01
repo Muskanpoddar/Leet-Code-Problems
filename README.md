@@ -122,6 +122,7 @@
 | [0278-first-bad-version](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -377,4 +378,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
