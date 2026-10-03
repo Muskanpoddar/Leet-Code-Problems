@@ -76,6 +76,7 @@
 | [0217-contains-duplicate](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Math
@@ -234,6 +235,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [0139-word-break](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1250-longest-common-subsequence) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
