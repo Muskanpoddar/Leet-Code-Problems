@@ -59,6 +59,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -80,6 +81,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Math
@@ -136,6 +138,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -247,6 +250,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## String
 |  |
 | ------- |
