@@ -139,6 +139,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## String
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1250-longest-common-subsequence) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
@@ -354,6 +357,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Union-Find
 |  |
 | ------- |
