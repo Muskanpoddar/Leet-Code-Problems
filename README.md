@@ -88,6 +88,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Math
@@ -285,6 +286,7 @@
 | [1250-longest-common-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1250-longest-common-subsequence) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
