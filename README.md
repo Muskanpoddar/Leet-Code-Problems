@@ -57,6 +57,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -83,6 +84,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -252,6 +254,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -352,6 +355,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0169-majority-element) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
 | ------- |
