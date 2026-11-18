@@ -59,6 +59,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1651-shuffle-string](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1651-shuffle-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -147,6 +148,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
