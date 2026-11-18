@@ -53,6 +53,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -145,6 +146,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -219,6 +221,7 @@
 | [0198-house-robber](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0410-split-array-largest-sum) |
 | [1250-longest-common-subsequence](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1250-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
@@ -252,6 +255,7 @@
 | [0045-jump-game-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0410-split-array-largest-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -371,6 +375,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Muskanpoddar/Leet-Code-Problems/tree/master/1046-max-consecutive-ones-iii) |
